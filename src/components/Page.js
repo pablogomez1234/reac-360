@@ -4,6 +4,7 @@ import Inicio from "./page/inicio";
 import { ProductosList } from "./page/productos";
 import { ProductosDetalles } from "./page/productos/ProductosDetalles";
 
+
 export default function Page() {
   return (
     <section>
@@ -15,3 +16,4 @@ export default function Page() {
     </section>
   );
 }
+
